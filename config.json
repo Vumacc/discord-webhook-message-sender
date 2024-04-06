@@ -1,0 +1,12 @@
+{
+    "id": "Your webhook ID here",
+    "token": "Your webhook token here",
+
+    "username": "Username here",
+    "avatarUrl": "URL for webhook avatar",
+    "message": "Message you want to send here",
+    
+    "includeEmbed": "`true` or `false` to include or not include an embed",
+    "embedTitle": "The title of the embed",
+    "embedDescription": "The content of the embed"
+}

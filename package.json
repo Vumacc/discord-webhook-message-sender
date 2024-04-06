@@ -1,0 +1,16 @@
+{
+  "name": "discord-webhook-messager",
+  "version": "1.0.0",
+  "description": "This is a somewhat decent method of being able to send messages with a Discord webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vumacc",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.11",
+    "discord.js": "^14.14.1",
+    "edit-json-file": "^1.8.0"
+  }
+}
