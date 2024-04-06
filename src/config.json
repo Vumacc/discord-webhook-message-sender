@@ -1,12 +1,12 @@
 {
-    "id": "Your webhook ID here",
-    "token": "Your webhook token here",
+    "id": "webhook ID",
+    "token": "webhook Token",
 
-    "username": "Username here",
+    "username": "username here",
     "avatarUrl": "URL for webhook avatar",
-    "message": "Message you want to send here",
+    "message": "message to send (required)",
     
-    "includeEmbed": "`true` or `false` to include or not include an embed",
-    "embedTitle": "The title of the embed",
-    "embedDescription": "The content of the embed"
+    "includeEmbed": "true or false",
+    "embedTitle": "embed title",
+    "embedDescription": "embed content"
 }
