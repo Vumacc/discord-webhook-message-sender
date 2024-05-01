@@ -1,12 +1,12 @@
 {
-    "id": "webhook ID",
-    "token": "webhook Token",
+    "id": "1235199293233692773",
+    "token": "rg5sCT37jm6esxWZYJV7L6krgsxxvr1vjzqN87BBWhxcD3Gi4oLp7Ec_cPOtW1K8fsfi",
 
-    "username": "username here",
-    "avatarUrl": "URL for webhook avatar",
-    "message": "message to send (required)",
-    
-    "includeEmbed": "true or false",
+    "username": "Joe",
+    "avatarUrl": "https://ibb.co/dbbTGRB",
+    "message": "https://tenor.com/view/discord-discord-drama-drama-argument-political-gif-24419538",
+
+    "includeEmbed": "false",
     "embedTitle": "embed title",
     "embedDescription": "embed content"
 }
