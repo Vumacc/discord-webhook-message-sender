@@ -51,10 +51,3 @@ After configuring the application, use this command to send the message to where
 ```shell
 > node index.js
 ```
-**Note:** You must be in the directory of which `index.js` is currently in
-
-## Contributing
-Contributions are welcome! If you have any ideas, enhancements, or bug fixes, please submit a pull request or open an issue.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Vumacc/discord-webhook-message-sender/blob/main/LICENSE) file for more details.
